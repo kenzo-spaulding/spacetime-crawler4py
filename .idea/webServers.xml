@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e18f0195-73cd-43c4-9060-fe8b97722561" name="openlab" url="http://openlab.ics.uci.edu">
+        <fileTransfer host="openlab.ics.uci.edu" port="22" rootFolder="/home/kdspauld" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
